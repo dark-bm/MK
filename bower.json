@@ -1,0 +1,17 @@
+{
+  "name": "MindK",
+  "version": "0.0.0",
+  "authors": [
+    "Chukin Anton <admin@kusumpharm.com>"
+  ],
+  "description": "Student Database",
+  "main": "web/app.php",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
